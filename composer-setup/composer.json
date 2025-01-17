@@ -1,0 +1,16 @@
+{
+    "name": "hadi/composer-setup",
+    "description": "test for knowledge",
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "zh-hadi",
+            "email": "zhhadi50@gmail.com"
+        }
+    ],
+    "require": {}
+}
